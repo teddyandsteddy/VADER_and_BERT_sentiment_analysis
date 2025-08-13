@@ -38,7 +38,7 @@ Visualizing the distribution of sentiment scores will clearly explain why VADER 
 
 I will leverage the sentiment_score to explore the diversity of emotional expression in songs from the perspective of sentiment intensity.
 
-This project provided a great opportunity to apply my data analysis skills and contextual reading comprehension, honed through my experience as a translator, to uncover the "story" behind the data. I am confident that this experience will be valuable for future exams such as the TOEFL and GMAT, which test advanced English proficiency.
+This project provided a great opportunity to apply my data analysis skills and contextual reading comprehension, honed through my experience as a translator, to uncover the "story" behind the data. 
 
 Scripts and Database
 analyze_and_save_results.py: The main script that performs VADER and BERT analysis and saves the results to analyzed_spotify_data.db.
